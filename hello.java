@@ -1,0 +1,3 @@
+class{
+	println("Hello World");
+}
